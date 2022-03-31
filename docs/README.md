@@ -10,6 +10,12 @@
 
 [![Test and coverage](https://github.com/Eric-Durr/PE103-31-03-22/actions/workflows/runtests.yml/badge.svg)](https://github.com/Eric-Durr/PE103-31-03-22/actions/workflows/runtests.yml)
 
+[![Sonar-Cloud Analysis](https://github.com/Eric-Durr/PE103-31-03-22/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/Eric-Durr/PE103-31-03-22/actions/workflows/sonarcloud.yml)
+
+[![pages-build-deployment](https://github.com/Eric-Durr/PE103-31-03-22/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Eric-Durr/PE103-31-03-22/actions/workflows/pages/pages-build-deployment)
+
+[![Deploy report](https://github.com/Eric-Durr/PE103-31-03-22/actions/workflows/deploy.yml/badge.svg)](https://github.com/Eric-Durr/PE103-31-03-22/actions/workflows/deploy.yml)
+
 ***
 
 ## [Enlace a la documentacion generada con TypeDoc](http://dsi-pe103-31-03-code-docs.surge.sh)
