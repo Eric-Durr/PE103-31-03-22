@@ -6,11 +6,13 @@
 >>>
 >>>[Eric Dürr Sierra](alu0101027005@ull.edu.es)
 
-[![Coverage Status](https://coveralls.io/repos/github/Eric-Durr/PE103-31-03-22/badge.svg?branch=master)](https://coveralls.io/github/Eric-Durr/PE103-31-03-22?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct07-music-datamodel-grupo-c/badge.svg?branch=master)](https://coveralls.io/github/ULL-ESIT-INF-DSI-2122/DSI-P06-Eric-Durr-?branch=master)
+
+[![Test and coverage](https://github.com/Eric-Durr/PE103-31-03-22/actions/workflows/runtests.yml/badge.svg)](https://github.com/Eric-Durr/PE103-31-03-22/actions/workflows/runtests.yml)
 
 ***
 
-## [Enlace a la documentacion generada con TypeDoc](doc dsi-pe103-31-03-code-docs.surge.sh)
+## [Enlace a la documentacion generada con TypeDoc](dsi-pe103-31-03-code-docs.surge.sh)
 
 
 ## Comandos npm del repositorio
