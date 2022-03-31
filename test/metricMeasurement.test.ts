@@ -1,7 +1,6 @@
 import { expect } from 'chai';
 import { describe, it } from 'mocha';
 import { MetricLength } from '../src/metricLength.class';
-import { ImperialMass } from '../src/imperialLenght.class';
 
 describe('Metric Length measurement library', () => {
   const lMeasures: MetricLength = new MetricLength();
