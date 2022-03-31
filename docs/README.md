@@ -12,7 +12,7 @@
 
 ***
 
-## [Enlace a la documentacion generada con TypeDoc](dsi-pe103-31-03-code-docs.surge.sh)
+## [Enlace a la documentacion generada con TypeDoc](http://dsi-pe103-31-03-code-docs.surge.sh)
 
 
 ## Comandos npm del repositorio
