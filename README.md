@@ -1,4 +1,4 @@
-# PE103 - ______
+# PE103 - Tipos de datos genéricos avanzados. Patrones de diseño.
 
 >Informe para la asignatura de Desarrollo de Sistemas Informáticos
 >
